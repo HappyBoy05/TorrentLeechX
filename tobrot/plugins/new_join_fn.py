@@ -19,7 +19,7 @@ async def new_join_f(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton('Github', url='https://github.com/AmirulAndalib')
+                        InlineKeyboardButton('Happyboy', url='https://t.me/happyboy59')
                     ]
                 ]
                )
